@@ -6,9 +6,9 @@ Each step is validated with **Vuelidate**, and once the form is submitted, a suc
 ---
 
 ## 🖼️️ Screenshots
-![Form Step 1 Screenshot](./screenshots/step-1.png)
-![Form Step 2 Screenshot](./screenshots/step-2.png)
-![Form Step 3 Screenshot](./screenshots/step-3.png)
+![Form Step 1 Screenshot](./screenshots/Step-1.png)
+![Form Step 2 Screenshot](./screenshots/Step-2.png)
+![Form Step 3 Screenshot](./screenshots/Step-3.png)
 
 
 ---
@@ -36,9 +36,9 @@ Each step is validated with **Vuelidate**, and once the form is submitted, a suc
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/ArashYounesi/vue-shipment-form.git
 
-cd repo-name
+cd vue-shipment-form
 
 # Install dependencies
 npm install
