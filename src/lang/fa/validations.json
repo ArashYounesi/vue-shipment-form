@@ -1,0 +1,19 @@
+{
+  "required": "وارد کردن {field} الزامی است.",
+  "string": "{field} باید متن باشد.",
+  "email": "{field} باید ایمیل معتبر باشد.",
+  "minLength": "طول {field} باید حداقل {min} کاراکتر باشد.",
+  "maxLength": "طول {field} نباید بیشتر از {max} کاراکتر باشد.",
+  "minValue": "مقدار {field} باید حداقل {min} باشد.",
+  "maxValue": "مقدار {field} نباید بیشتر از {max} باشد.",
+  "confirmed": "{field} با فیلد تأیید مطابقت ندارد.",
+  "numeric": "{field} باید عدد باشد.",
+  "boolean": "{field} باید true یا false باشد.",
+  "alpha": "{field} فقط می‌تواند شامل حروف باشد.",
+  "alphaNum": "{field} فقط می‌تواند شامل حروف و اعداد باشد.",
+  "url": "{field} باید URL معتبر باشد.",
+  "regex": "{field} قالب معتبری ندارد.",
+  "unknown": "خطای اعتبارسنجی نامشخص",
+  "iranianMobile": "شماره موبایل وارد شده معتبر نیست. (مثال: ۰۹xxxxxxxxx)",
+  "iranianPostalCode": "کد پستی وارد شده معتبر نیست. (۱۰ رقمی)"
+}

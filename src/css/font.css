@@ -1,0 +1,58 @@
+/* Yekan Bakh ------------------------------ */
+@font-face {
+  font-family: yekanbakh;
+  src: url('../assets/fonts/YekanBakh/YekanBakh-Bold.woff') format('woff');
+  font-display: fallback;
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+/* iranyekanx ------------------------------ */
+@font-face {
+  font-family: iranyekanx;
+  font-style: normal;
+  font-weight: 300;
+  src:
+    url('../assets/fonts/iranyekanx/woff/iranyekanx-light.woff') format('woff'),
+    url('../assets/fonts/iranyekanx/woff2/iranyekanx-light.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: iranyekanx;
+  font-style: normal;
+  font-weight: normal;
+  src:
+    url('../assets/fonts/iranyekanx/woff/iranyekanx-regular.woff') format('woff'),
+    url('../assets/fonts/iranyekanx/woff2/iranyekanx-regular.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: iranyekanx;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url('../assets/fonts/iranyekanx/woff/iranyekanx-medium.woff') format('woff'),
+    url('../assets/fonts/iranyekanx/woff2/iranyekanx-medium.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: iranyekanx;
+  font-style: normal;
+  font-weight: bold;
+  src:
+    url('../assets/fonts/iranyekanx/woff/iranyekanx-bold.woff') format('woff'),
+    url('../assets/fonts/iranyekanx/woff2/iranyekanx-bold.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+  font-family: iranyekanx;
+  font-style: normal;
+  font-weight: 800;
+  src:
+    url('../assets/fonts/iranyekanx/woff/iranyekanx-extrabold.woff') format('woff'),
+    url('../assets/fonts/iranyekanx/woff2/iranyekanx-extrabold.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}

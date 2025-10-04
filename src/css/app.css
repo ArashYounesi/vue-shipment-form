@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import './font.css';
+
+/* Preline */
+@source "./node_modules/preline/dist/*.js";
+@import 'preline/variants.css';
+
+/* Plugins */
+@plugin "@tailwindcss/forms";
+
+@import './theme.css';

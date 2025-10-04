@@ -1,44 +1,47 @@
-# vue-shipment-form
+# 📦 Shipment Form with Vue 3 + Preline
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a **multi-step shipment form** built with **Vue 3 Composition API**, **TailwindCSS v4**, and **Preline UI**.  
+Each step is validated with **Vuelidate**, and once the form is submitted, a success message with a green checkmark is displayed.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🖼️️ Screenshots
+![Form Step 1 Screenshot](./screenshots/step-1.png)
+![Form Step 2 Screenshot](./screenshots/step-2.png)
+![Form Step 3 Screenshot](./screenshots/step-3.png)
 
-## Recommended Browser Setup
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 🚀 Features
+- Multi-step form with clean UX
+- Validation powered by **Vuelidate**
+- Responsive design using **TailwindCSS v4**
+- UI components styled with **Preline**
+- Glassmorphism loading spinner overlay
+- Success message with animated green checkmark
+- Modular and reusable Vue components
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠️ Tech Stack
+- [Vue 3](https://vuejs.org/) (Composition API)
+- [TailwindCSS v4](https://tailwindcss.com/)
+- [Preline UI](https://preline.co/)
+- [Vuelidate](https://vuelidate-next.netlify.app/)
 
-```sh
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/username/repo-name.git
+
+cd repo-name
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Run the project
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```

@@ -1,0 +1,15 @@
+{
+  "full_name": "نام کامل",
+  "name": "نام",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "phone": "شماره تماس",
+  "province": "استان",
+  "postal_code": "کد پستی",
+  "address": "آدرس",
+  "note": "توضیحات",
+  "weight": "وزن",
+  "length": "طول",
+  "width": "عرض",
+  "height": "ارتفاع"
+}
